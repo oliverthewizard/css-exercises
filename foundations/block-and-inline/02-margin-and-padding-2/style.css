@@ -30,6 +30,8 @@ body {
 .button-container {
   background: #e3f4ff;
   margin:5px;
+  text-align: center;
+  padding:5px;
 }
 
 button {
@@ -39,7 +41,7 @@ button {
   padding-right: 20px;
   padding-top:8px;
   padding-bottom:8px;
-  margin-left:90px;
-  margin-top:30px;
-  margin-bottom:8px;
+  margin-left:130px;
+  margin-bottom:5px;
+  display:block;
 }
