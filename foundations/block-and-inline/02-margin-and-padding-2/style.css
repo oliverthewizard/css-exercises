@@ -12,15 +12,20 @@ body {
 
 .title {
   background: #e3f4ff;
+  margin:5px;
+  margin-bottom:10px;
+  margin-top:15px;
 }
 
 .content {
   background: #e3f4ff;
+  margin:5px;
+  margin-bottom:10px;
 }
 
 .button-container {
   background: #e3f4ff;
-  margin:10px;
+  margin:5px;
 }
 
 button {
